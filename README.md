@@ -54,11 +54,19 @@ A **Trie** is similar to a Binary Tree, except that the nodes do not store the k
 It is used when there’s a partially completed field, and there’s a want to provide a list of possibilities connected to that partially completed field. 
 In this example, all the descendents of a node have a common prefix.  
 
+A trie (pronounced: “try”), also called digital tree and sometimes radix tree or prefix tree (as they can be searched by prefixes), is a kind of search tree.
 
+Search Tree:  An ordered tree data structure that is used to store a dynamic set or associative array where the keys are usually strings
 
-
-
-
+The key part for each node in one of these Trees is (usually) a string. 
+The root node is an empty string.
+Letters are added to the string key for each node, moving away from the root.  
+Actual values are associated only with the “Leaves” of the trie.  
+Example of use in the Real World:
+Word completion in a google search field. 
+It is used when there’s a partially completed field, and there’s a want to provide a list of possibilities connected to that partially completed field. 
+In this example, all the descendents of a node have a common prefix.  
+Time complexity of O(L)
 
 ## links
 https://www.geeksforgeeks.org/binary-tree-data-structure/
@@ -69,4 +77,6 @@ https://my.generalassemb.ly/activities/263
 https://www.google.com/amp/s/www.geeksforgeeks.org/trie-insert-and-search/amp/
 https://link.medium.com/SU8DcC4SH4
 https://www.google.com/amp/s/www.geeksforgeeks.org/binary-tree-set-1-introduction/amp/
+https://www.geeksforgeeks.org/trie-insert-and-search/
+https://www.geeksforgeeks.org/advantages-trie-data-structure/amp/
 
