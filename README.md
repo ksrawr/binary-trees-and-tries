@@ -12,3 +12,7 @@ https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary
 https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
 https://my.generalassemb.ly/activities/8
 https://my.generalassemb.ly/activities/263
+https://www.google.com/amp/s/www.geeksforgeeks.org/trie-insert-and-search/amp/
+https://link.medium.com/SU8DcC4SH4
+https://www.google.com/amp/s/www.geeksforgeeks.org/binary-tree-set-1-introduction/amp/
+
