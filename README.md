@@ -51,6 +51,9 @@ A **Trie** is similar to a Binary Tree, except that the nodes do not store the k
 - Letters are added to the string key for each node, moving away from the root.
 - Actual values are associated only with the “Leaves” of the trie.
 
+It is used when there’s a partially completed field, and there’s a want to provide a list of possibilities connected to that partially completed field. 
+In this example, all the descendents of a node have a common prefix.  
+
 
 
 
