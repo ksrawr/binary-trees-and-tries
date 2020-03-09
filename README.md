@@ -69,14 +69,14 @@ In this example, all the descendents of a node have a common prefix.
 Time complexity of O(L)
 
 ## links
-https://www.geeksforgeeks.org/binary-tree-data-structure/
-https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/
-https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
-https://my.generalassemb.ly/activities/8
-https://my.generalassemb.ly/activities/263
-https://www.google.com/amp/s/www.geeksforgeeks.org/trie-insert-and-search/amp/
-https://link.medium.com/SU8DcC4SH4
-https://www.google.com/amp/s/www.geeksforgeeks.org/binary-tree-set-1-introduction/amp/
-https://www.geeksforgeeks.org/trie-insert-and-search/
-https://www.geeksforgeeks.org/advantages-trie-data-structure/amp/
+- https://www.geeksforgeeks.org/binary-tree-data-structure/
+- https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/
+- https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+- https://my.generalassemb.ly/activities/8
+- https://my.generalassemb.ly/activities/263
+- https://www.google.com/amp/s/www.geeksforgeeks.org/trie-insert-and-search/amp/
+- https://link.medium.com/SU8DcC4SH4
+- https://www.google.com/amp/s/www.geeksforgeeks.org/binary-tree-set-1-introduction/amp/
+- https://www.geeksforgeeks.org/trie-insert-and-search/
+- https://www.geeksforgeeks.org/advantages-trie-data-structure/amp/
 
